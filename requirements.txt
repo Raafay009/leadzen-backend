@@ -4,3 +4,5 @@ sqlalchemy
 pydantic
 transformers
 python-multipart
+psycopg2-binary
+
